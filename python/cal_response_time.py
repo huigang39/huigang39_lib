@@ -2,7 +2,7 @@
 @Author: Huigang Wang
 @Email: huigang39@outlook.com
 @Date: 2024-2-21 11:00
-@Description: 计算 FreeMaster 采集数据的响应时间
+@Description: 计算 FreeMaster 导出的数据的响应时间
 """
 
 import numpy as np
